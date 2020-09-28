@@ -7,6 +7,6 @@
  JDK, SDK, Appium, Maven
 
 # Ejecución
- Ubicar en la ruta del proyecto y ejecutar el siguiente comando remmplazando los valores platformVersion y deviceName con los valores del celular android donde se realizará la prueba
+ Ubicar en la ruta del proyecto y ejecutar el siguiente comando reemplazando los valores platformVersion y deviceName con los valores del celular android donde se realizará la prueba
 	
  mvn test -DplatformName="Android" -DplatformVersion="platformVersion" -DdeviceName="deviceName"
